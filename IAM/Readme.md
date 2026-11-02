@@ -6,7 +6,8 @@ Groups : We can make groups in which we have pre set permissions or policies, we
 Roles : Temporarily assumed identity by the user.
 Practical
 Making an IAM user with compulsory password change:
-<img width="1910" height="972" alt="image" src="https://github.com/user-attachments/assets/8256f255-8451-497c-bf8e-ad3862ea2fab" />
+<img width="1758" height="895" alt="image" src="https://github.com/user-attachments/assets/c8efca26-01f3-453c-ba9e-9cd1a5ee21d6" />
+
 Adding user to the group developers:
 <img width="1902" height="965" alt="image" src="https://github.com/user-attachments/assets/a56a860a-38b3-4f84-9d49-37d9aa2d3996" />
 Logs in as IAM user to find access denied to multiple services:
