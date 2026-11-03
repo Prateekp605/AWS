@@ -43,6 +43,8 @@ Instance status.
 Connecting instances.
 
 <img width="1866" height="843" alt="image" src="https://github.com/user-attachments/assets/6e5f0f9b-37c4-4d52-bccc-12f9129deff6" />
+
+Running it on my local machine using putty with public IP. Used amazon linux as OS for the instance,
 <img width="817" height="507" alt="image" src="https://github.com/user-attachments/assets/e634a9d7-11e7-476a-a45b-ce8df855d806" />
 
 
