@@ -42,7 +42,7 @@ Provides security at the subnet level. Controls traffic coming into and out of y
 - Stateless.
 - Allow/Deny Rules.
 
-### Security Groups
+##Security Groups
 These act as virtual firewalls. Can be added to AWS resources such as EC2 Instances.
 - Stateful.
 - Only Allow Rules.
