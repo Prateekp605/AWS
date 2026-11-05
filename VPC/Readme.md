@@ -48,7 +48,7 @@ These act as virtual firewalls. Can be added to AWS resources such as EC2 Instan
 - Only Allow Rules.
 - Controls traffic coming into and out of resources.
 
-## Key Points
+## Key Points to remember
 - VPC provides an isolated network.
 - Subnets enable you to break your VPC down into smaller networks.
 - Public and Private Subnets vary depending on routing.
