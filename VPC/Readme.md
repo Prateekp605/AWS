@@ -2,7 +2,7 @@
 
 ## Introduction
 Today I have learned about Amazon VPC (Virtual Private Cloud). This is a service provided by AWS which helps you create an isolated virtual network in AWS.
-This gives you control over your networking resources.
+This gives you control over your networking resource.
 
 ## What is Amazon VPC?
 This enables us to launch AWS resources in a virtual, isolated network.
